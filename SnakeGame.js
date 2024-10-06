@@ -1,3 +1,5 @@
+console.log("Snake game script is loaded!");
+
 let snakeSize = 3;
 let snakeX = new Array(snakeSize);
 let snakeY = new Array(snakeSize);

@@ -13,7 +13,7 @@ let meatY;
 let score;
 function setup() {
     frameRate(frameRateChanged);
-    createCanvas(600, 800);
+    createCanvas(400, 800);
     score = 0;
     textSize(32);
     noStroke();

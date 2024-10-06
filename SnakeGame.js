@@ -31,7 +31,7 @@ function draw() {
     frameRate(frameRateChanged);
     fill(255, 250, 0);
     textSize(32);
-    text("Score : " + score, 30, 30);
+    text("Score : " + score, 30, 50);
     fill(255, 0, 0);
     noStroke();
     rect(meatX, meatY, snakeWidth, snakeWidth);
